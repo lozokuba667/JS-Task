@@ -77,4 +77,3 @@ function reset() {
   ];
 }
 
-console.table(symbols);
